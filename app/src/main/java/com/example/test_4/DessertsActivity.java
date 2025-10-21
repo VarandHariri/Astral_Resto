@@ -33,7 +33,7 @@ public class DessertsActivity extends AppCompatActivity {
         btnBack.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                finish(); // Kembali ke activity sebelumnya
+                finish();
             }
         });
 
